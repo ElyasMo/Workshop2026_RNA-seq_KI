@@ -71,24 +71,6 @@ The practical session covers:
 
 ---
 
-# Repository Structure
-
-```text
-.
-├── README.md
-├── Slides/
-│   └── Workshop presentation
-│
-├── R/
-│   └── RNAseq_Workshop.Rmd
-│
-└── Data/
-    ├── CTL1/
-    └── LiDef1/
-```
-
----
-
 # Software Requirements
 
 Please install the following software before the workshop.
