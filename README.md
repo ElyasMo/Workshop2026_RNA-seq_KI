@@ -53,9 +53,11 @@ Participants will perform a complete single-cell RNA-seq analysis using **Seurat
 
 The repository includes:
 
+-You can download the following information from this link: https://drive.google.com/drive/folders/1v1iPHKiQEevgLhdOovR0b_1K4QYjqew0?usp=sharing 
+
 - 📄 **RNAseq_Workshop.Rmd** — Complete analysis workflow
 - 📂 **Example single-cell RNA-seq dataset** — Input data for the practical session
-
+  
 The practical session covers:
 
 - Loading data
