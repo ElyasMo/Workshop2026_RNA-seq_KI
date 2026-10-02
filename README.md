@@ -1,5 +1,5 @@
 
-# AI & Bioinformatics Workshop
+# Bioinformatics Workshop
 ### Introduction to Transcriptomics Data Analysis
 
 Welcome to the **AI & Bioinformatics Workshop**.
